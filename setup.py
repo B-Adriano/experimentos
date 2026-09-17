@@ -1,4 +1,4 @@
-# 
+# setup.py
 # Faz o setup inicial do banco de dados se necessário
 
 import sqlite3
